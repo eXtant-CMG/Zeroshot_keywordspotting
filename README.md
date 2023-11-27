@@ -27,6 +27,8 @@ The presentation tests CLIP's zero-shot capabilities on handwritten words using,
 
 The accompanying GitHub page provides code demonstrating zero-shot keyword spotting using CLIP on multiple datasets. These experiments show CLIP's ability to efficiently browse digital images of handwritten documents without the need for manual transcriptions, addressing the challenges posed by the traditional HTR workflow.
 
+To rerun the CLIP - IAM experiment, the user needs to first request the IAM dataset (https://fki.tic.heia-fr.ch/databases/iam-handwriting-database)
+
 **Conclusion:**
 
 By leveraging CLIP's capabilities, the GitHub demo aims to facilitate the adoption of automated keyword spotting in handwritten documents, offering a more efficient and versatile solution for researchers and developers in the field of digitization.
