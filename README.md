@@ -13,7 +13,7 @@ Digitization significantly influences the transmission, preservation, and analys
 
 This notebook aims to showcase how the Contrastive Language Image Pre-Training (CLIP) model can revolutionize this process. CLIP is a multimodal model with separate encoders for textual and visual information, trained to maximize cosine similarity for correct image-text pairs and minimize it for incorrect pairs. In the image below, CLIP's architecture to connect words to their handwritten word is visualised.
 
-<img width="586" alt="Screenshot 2023-11-27 at 11 19 22" src="https://github.com/eXtant-CMG/Zeroshot/assets/72438295/222325cd-16cd-4770-9827-45a30c57a978">
+<img width="599" alt="Screenshot 2023-11-27 at 11 38 30" src="https://github.com/eXtant-CMG/Zeroshot/assets/72438295/459bbfc8-d277-4420-b979-90f1eb9f4c86">
 
 **Versatility of CLIP:**
 
