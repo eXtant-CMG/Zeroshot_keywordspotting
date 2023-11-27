@@ -1,4 +1,4 @@
-**Title: Automated Keyword Spotting in Handwritten Documents Using CLIP-Model**
+**Automated Keyword Spotting in Handwritten Documents Using CLIP-Model**
 
 **Introduction:**
 
@@ -9,7 +9,7 @@ Digitization significantly influences the transmission, preservation, and analys
 1. The quality of training data impacts the model's performance.
 2. Introducing new handwriting requires time-consuming fine-tuning or training a new model.
 
-**CLIP-Model as a Solution:**
+**CLIP-Model as a Solution?**
 
 This notebook aims to showcase how the Contrastive Language Image Pre-Training (CLIP) model can revolutionize this process. CLIP is a multimodal model with separate encoders for textual and visual information, trained to maximize cosine similarity for correct image-text pairs and minimize it for incorrect pairs. In the image below, CLIP's architecture to connect words to their handwritten word is visualised.
 
